@@ -5,19 +5,3 @@
 }
 
 /*--------HEADER-------*/
-nav{
-    width: 70%;
-}
-.nav-container{
-    background-color: #0084fd;
-    display: flex;
-    justify-content: center;
-    padding: 1rem;
-}
-.nav-content{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-
-
-}
